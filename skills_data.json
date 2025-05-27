@@ -1,0 +1,19 @@
+{
+    "python": {
+        "name": "python",
+        "skills": [
+            {
+                "name": "writing code",
+                "level": 0,
+                "description": "",
+                "type": "SoftSkill"
+            },
+            {
+                "name": "debugging",
+                "level": 40,
+                "description": "",
+                "type": "HardSkill"
+            }
+        ]
+    }
+}
